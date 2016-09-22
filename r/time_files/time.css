@@ -135,14 +135,6 @@
     line-height: 18px;
     opacity: 1.00;
 }
-.style_1 {
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 17px;
-}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
@@ -206,7 +198,7 @@
 .Normal_External_515_87 {
     position: relative;
 }
-.Normal_External_515_345 {
+.Normal_External_515_453 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -284,6 +276,42 @@ a.class13:visited {
     text-decoration: none;
 }
 a.class13:hover {
+    color: rgb(224, 133, 102);
+    text-decoration: underline;
+}
+a.class14 {
+    color: rgb(183, 97, 78);
+    text-decoration: none;
+}
+a.class14:visited {
+    color: rgb(170, 121, 66);
+    text-decoration: none;
+}
+a.class14:hover {
+    color: rgb(224, 133, 102);
+    text-decoration: underline;
+}
+a.class15 {
+    color: rgb(183, 97, 78);
+    text-decoration: none;
+}
+a.class15:visited {
+    color: rgb(170, 121, 66);
+    text-decoration: none;
+}
+a.class15:hover {
+    color: rgb(224, 133, 102);
+    text-decoration: underline;
+}
+a.class16 {
+    color: rgb(183, 97, 78);
+    text-decoration: none;
+}
+a.class16:visited {
+    color: rgb(170, 121, 66);
+    text-decoration: none;
+}
+a.class16:hover {
     color: rgb(224, 133, 102);
     text-decoration: underline;
 }
